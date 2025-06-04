@@ -2,7 +2,9 @@
 
 ## Universidad
 **Nombre:** Universitad Tecnologica De Pereira
+
 **Facultad:** Ingeniería  
+
 **Curso:** Álgebra Lineal – 2do Semestre  
           Tecnologia en desarrollo de software
           
