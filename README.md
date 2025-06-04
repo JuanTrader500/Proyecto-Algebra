@@ -5,6 +5,7 @@
 **Facultad:** Ingeniería  
 **Curso:** Álgebra Lineal – 2do Semestre  
           Tecnologia en desarrollo de software
+          
 **Fecha de entrega:** 05 de junio de 2025
 
 ## Integrantes del Grupo
