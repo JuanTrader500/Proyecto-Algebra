@@ -12,8 +12,8 @@
 
 ## Integrantes del Grupo
 - Juan Andres Muñoz Zapata
-- Emanuel Velasquez 
-- Poul Moreno
+- Enmanuel Velasquez 
+- Paul Moreno
 
 ---
 
