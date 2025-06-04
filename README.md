@@ -31,8 +31,6 @@ El análisis se basa en los siguientes elementos del álgebra lineal:
   \[
   \min_x \|Ax - b\|_2^2
   \]
-  mediante pseudoinversa o ecuaciones normales
-- Visualización geométrica de proyecciones y descomposición en valores singulares (SVD)
 
 También se exploran aplicaciones prácticas del álgebra lineal en motores gráficos, inteligencia artificial y optimización industrial.
 
