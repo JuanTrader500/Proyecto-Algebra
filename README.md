@@ -17,6 +17,8 @@
 
 ---
 
+## Video De Sutentacion: https://youtu.be/Qjg4kuM3S7Y?si=eixk5f3EXgazssPZ
+
 ## Descripción del Proyecto
 
 Este proyecto aborda un problema realista dentro del contexto de la **Industria 4.0**, aplicando conceptos fundamentales del álgebra lineal para resolver un reto de **pronóstico de demanda y planificación de inventario** en una planta ensambladora de motocicletas.
